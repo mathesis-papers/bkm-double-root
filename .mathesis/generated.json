@@ -1,0 +1,40 @@
+{
+  "generated_paths": [
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "CONTRIBUTING.md",
+    "LICENSES/CC-BY-4.0.txt",
+    "README.md",
+    "formalization/nodes.json",
+    "manuscript/README.md",
+    "manuscript/SHA256SUMS",
+    "manuscript/metadata.json",
+    "manuscript/note.pdf",
+    "manuscript/note.tex",
+    "manuscript/verification.json",
+    "manuscript/verify.py",
+    "paper.json",
+    "paper.pdf",
+    "source.archive"
+  ],
+  "generator_version": "0.1.0",
+  "sha256": {
+    "CHANGELOG.md": "d34206c45ccfa9bbddd32f3ab2f52fd4168fd6e759185fbdbca41ece694b1411",
+    "CITATION.cff": "0527896523f1b801bee3222fee6fc5c362afa0485a13166310fea89eda46b8fe",
+    "CONTRIBUTING.md": "fafd66e63160b2a88f433af56d2af2b0f7bf6ed2fd417d46b54446ce07c627ff",
+    "LICENSES/CC-BY-4.0.txt": "58230517b7895aa219ff46a6ed63e67057a1582fb9ea054b16728a8c13525650",
+    "README.md": "44608520c8ad1422f4da5da43627e573fcd3a47fbcc7dedde222172ce415035f",
+    "formalization/nodes.json": "e1047dbce453fac43380bca8147fc190e64bb7381f5f3fec02df9a976c9c8586",
+    "manuscript/README.md": "88948678fdb2faa3017dbba8b2924c283242aba86c864214726ac8b462024eb9",
+    "manuscript/SHA256SUMS": "be70660c0c52f9469f91d38bc380614ec3242c3b04cf6a2e95d1150958fd926b",
+    "manuscript/metadata.json": "4c9a76a59220b956eef4be74f40a230088deb0c0fc220bec972f5c55822acfc2",
+    "manuscript/note.pdf": "e1b9ac427a41dfb343bc033828496fbf3ca79b3733782781d05be9bc9df50828",
+    "manuscript/note.tex": "6c1dbcac17eeef4721ccfc92bc0fd75f7550e2252ef543f22108721072f851d4",
+    "manuscript/verification.json": "c237b2ea9c398e60143c801f163c0f6614549c5bda25ed62a8f3548e6ad938f8",
+    "manuscript/verify.py": "7a7a8c1806f43d0616ff839ea90cbfe9befd0f23bcace727cc80e1fc6b9aa286",
+    "paper.json": "a6c486d885d5462e2507b06c9475a0a46fd22483c8556fa4845a1d6f9e422ae7",
+    "paper.pdf": "e1b9ac427a41dfb343bc033828496fbf3ca79b3733782781d05be9bc9df50828",
+    "source.archive": "cc8a21c86949067cec3c5d477f58af0dc04bd6da9637368e86bd01bf07a8496a"
+  },
+  "snapshot_identity": "6c0ef4834bc341464b7805e9f771cb0c11b0050d8ec36a5b0ec561cd0701a0aa"
+}

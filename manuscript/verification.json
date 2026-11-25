@@ -1,0 +1,201 @@
+{
+  "arithmetic": "exact integers",
+  "cyclic_quotients": [
+    {
+      "counts_equal": true,
+      "degree": 1,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "residues": 17
+    },
+    {
+      "counts_equal": true,
+      "degree": 2,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "residues": 137
+    },
+    {
+      "counts_equal": true,
+      "degree": 3,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        2,
+        4,
+        7,
+        11,
+        16,
+        22,
+        29,
+        37,
+        46
+      ],
+      "residues": 697
+    },
+    {
+      "counts_equal": true,
+      "degree": 4,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        2,
+        4,
+        8,
+        15,
+        26,
+        42,
+        64,
+        93,
+        130
+      ],
+      "residues": 2517
+    },
+    {
+      "counts_equal": true,
+      "degree": 5,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        2,
+        4,
+        8,
+        16,
+        31,
+        57,
+        99,
+        163,
+        256
+      ],
+      "residues": 6885
+    },
+    {
+      "counts_equal": true,
+      "degree": 6,
+      "depth": 16,
+      "distances_equal": true,
+      "initial_counts": [
+        1,
+        1,
+        2,
+        4,
+        8,
+        16,
+        32,
+        63,
+        120,
+        219,
+        382
+      ],
+      "residues": 14893
+    }
+  ],
+  "double_root": {
+    "depth": 80,
+    "distances_equal": true,
+    "initial_counts": [
+      1,
+      1,
+      2,
+      4,
+      7,
+      11,
+      16,
+      22,
+      29,
+      37,
+      46
+    ],
+    "recurrence_from": 3,
+    "residues": 85401,
+    "shells_equal": true
+  },
+  "hexagonal": {
+    "depth": 80,
+    "initial_counts": [
+      1,
+      1,
+      2,
+      4,
+      7,
+      11,
+      16,
+      22,
+      28,
+      34,
+      40
+    ],
+    "linear_formula_from": 6,
+    "onset_sharp": true,
+    "recurrence_from": 8,
+    "residues": 17876,
+    "sector_distances_equal": true,
+    "shells_equal": true
+  },
+  "predecessor_equality": {
+    "both_distances": 3,
+    "constant_endpoint": 3,
+    "depth": 3,
+    "radical_coefficient": 2
+  },
+  "schema_version": 1,
+  "scope": "Finite checks through the stated depths; general statements have written proofs.",
+  "simple_root": {
+    "corrected_table5_G3": 3,
+    "depth": 80,
+    "distances_equal": true,
+    "initial_counts": [
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "recurrence_from": 3,
+    "residues": 3241,
+    "shells_equal": true
+  },
+  "status": "ALL_CHECKS_OK",
+  "universal_tree": {
+    "depth": 13,
+    "polynomials": 8192
+  }
+}
