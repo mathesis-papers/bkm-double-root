@@ -31,6 +31,7 @@
     "concept_doi": "10.5281/zenodo.23964154",
     "current_version": 2,
     "doi": "10.5281/zenodo.23964155",
+    "kind": "note",
     "lean_source": {
       "revision": "50f2a97bb5e704842f2c32c6095f68a0dc62c779",
       "url": "https://github.com/the-omega-institute/trureturing/blob/50f2a97bb5e704842f2c32c6095f68a0dc62c779/D5/S3/Combinatorics/PolynomialTrees/BallotKimberlingMosesDoubleRootGeneration.lean"
@@ -55,10 +56,12 @@
     "title": "Resolving the double-root conjecture in Ballot–Kimberling–Moses (2017), Section 5, Table 5, p. 23",
     "versions": [
       {
+        "changelog": null,
         "previous_version": null,
         "published_on": "2026-11-25T20:30:30.484965267Z",
         "revision": "2",
-        "version": 2
+        "version": 2,
+        "version_label": null
       }
     ],
     "work": "bkm-double-root"
